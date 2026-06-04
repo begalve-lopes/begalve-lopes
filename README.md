@@ -5,83 +5,83 @@ An Information Technology professional with a strong background in technical sup
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 💻 **Current Role:** IT Technician at ESCID, providing system administration and infrastructure support.
 - 👨‍🏫 **Past Experience:** IT Trainer at CFITEL, teaching computer repair and system administration.
 - 🎓 **Education:** Technical Course in IT from ITEL (Instituto de Telecomunicações).
-- 🎯 **Current Goals:** Transitioning completely to SDET roles, mastering Playwright internal architecture, and optimizing automated CI/CD pipelines.
+- 🎯 **Current Goals:** Transitioning completely to SDET roles, mastering Playwright architecture, and optimizing CI/CD pipelines with GitHub Actions.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Testing & QA</strong></td>
-    <td align="center" width="25%"><strong>Languages & Web</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Infra</strong></td>
-    <td align="center" width="25%"><strong>Methodologies</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Playwright<br>
-      • Cypress<br>
-      • Selenium WebDriver<br>
-      • Postman<br>
-      • REST Assured<br>
-      • K6 (Performance)
-    </td>
-    <td valign="top">
-      • TypeScript / JavaScript<br>
-      • Java<br>
-      • PHP (Laravel)<br>
-      • Angular & Next.js<br>
-      • Tailwind CSS & Bootstrap
-    </td>
-    <td valign="top">
-      • Docker<br>
-      • GitHub Actions (CI/CD)<br>
-      • Linux (Ubuntu/CentOS)<br>
-      • Windows Server<br>
-      • VMware ESXi
-    </td>
-    <td valign="top">
-      • BDD (Cucumber)<br>
-      • TDD<br>
-      • Manual & Exploratory Testing<br>
-      • Software Lifecycle (SDLC)
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=begalve-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Begave's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begalve-lopes&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="150" />
+### 🧪 Testing & QA
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoftedge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </p>
 
 ---
 
-### 📜 Main Certifications
-- **Complete Software Testing + Automation Course** – Udemy & Iterasys
-- **Universo Cypress** & **Playwright eXpress** – QANinja & Udemy
-- **Introduction to Software Testing** – USP (Universidade de São Paulo)
-- **IT Essentials** – Cisco Networking Academy
-- **Docker for QAs** – Udemy
-- **Angular, Next.js, Laravel** — Rocketseat
+### 💻 Languages & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,angular,nextjs,bootstrap,tailwind,sql" />
+</p>
 
 ---
 
-### 🤝 Connect with Me
+### ⚙️ DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,windows,vmware" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 Methodologies
+<p>
+  <img src="https://img.shields.io/badge/BDD-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDLC-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://linkedin.com/in/begave-lopes-da-silva-92b1a7284" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
+</p>
+
+---
+
+## 📈 GitHub Streak
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📜 Main Certifications
+- Complete Software Testing + Automation Course – Udemy & Iterasys  
+- Universo Cypress & Playwright eXpress – QANinja & Udemy  
+- Introduction to Software Testing – USP  
+- IT Essentials – Cisco Networking Academy  
+- Docker for QAs – Udemy  
+- Angular, Next.js, Laravel – Rocketseat  
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:begalve.927390438.00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
