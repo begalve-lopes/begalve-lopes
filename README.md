@@ -66,7 +66,7 @@ An Information Technology professional with a strong background in technical sup
 ---
 
 ### 📜 Main Certifications
-- **Complete Software Testing + Automation Course** – Udemy / Iterasys
+- **Complete Software Testing + Automation Course** – Udemy & Iterasys
 - **Universo Cypress** & **Playwright eXpress** – QANinja & Udemy
 - **Introduction to Software Testing** – USP (Universidade de São Paulo)
 - **IT Essentials** – Cisco Networking Academy
