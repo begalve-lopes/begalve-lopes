@@ -71,6 +71,7 @@ An Information Technology professional with a strong background in technical sup
 - **Introduction to Software Testing** – USP (Universidade de São Paulo)
 - **IT Essentials** – Cisco Networking Academy
 - **Docker for QAs** – Udemy
+- **Angular, Next.js, Laravel — Rocketseat
 
 ---
 
