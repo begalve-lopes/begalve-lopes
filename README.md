@@ -5,17 +5,17 @@ An Information Technology professional with a strong background in technical sup
 
 ---
 
-## 🚀 About Me
-- 💻 **Current Role:** IT Technician at ESCID, providing system administration and infrastructure support.
-- 👨‍🏫 **Past Experience:** IT Trainer at CFITEL, teaching computer repair and system administration.
-- 🎓 **Education:** Technical Course in IT from ITEL (Instituto de Telecomunicações).
-- 🎯 **Current Goals:** Transitioning completely to SDET roles, mastering Playwright architecture, and optimizing CI/CD pipelines with GitHub Actions.
+## About Me
+- **Current Role:** IT Technician at ESCID, providing system administration and infrastructure support.
+- **Past Experience:** IT Trainer at CFITEL, teaching computer repair and system administration.
+- **Education:** Technical Course in IT from ITEL (Instituto de Telecomunicações).
+- **Current Goals:** Transitioning completely to SDET roles, mastering Playwright architecture, and optimizing CI/CD pipelines with GitHub Actions.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🧪 Testing & QA
+### Testing & QA
 - <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=microsoftedge&logoColor=white" height="20"/> **Playwright**
 - <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" height="20"/> **Cypress**
 - <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" height="20"/> **Selenium WebDriver**
@@ -23,7 +23,7 @@ An Information Technology professional with a strong background in technical sup
 - <img src="https://img.shields.io/badge/-REST_Assured-0073B1?style=flat&logo=java&logoColor=white" height="20"/> **REST Assured**
 - <img src="https://img.shields.io/badge/-K6-7B62EE?style=flat&logo=k6&logoColor=white" height="20"/> **K6 (Performance)**
 
-### 💻 Languages & Web
+### Languages & Web
 - <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="20"/> **TypeScript**
 - <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20"/> **JavaScript**
 - <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="20"/> **Java**
@@ -34,21 +34,21 @@ An Information Technology professional with a strong background in technical sup
 - <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="20"/> **Bootstrap**
 - <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="20"/> **SQL**
 
-### ⚙️ DevOps & Infra
+### DevOps & Infra
 - <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20"/> **Docker**
 - <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="20"/> **GitHub Actions (CI/CD)**
 - <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> **Linux (Ubuntu/CentOS)**
 - <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" height="20"/> **Windows Server**
 - <img src="https://img.shields.io/badge/-VMware_ESXi-60A10F?style=flat&logo=vmware&logoColor=white" height="20"/> **VMware ESXi**
 
-### 🧠 Methodologies
+### Methodologies
 - <img src="https://img.shields.io/badge/-BDD_Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" height="20"/> **BDD (Cucumber)**
 - <img src="https://img.shields.io/badge/-TDD-FF6F00?style=flat" height="20"/> **TDD**
 - <img src="https://img.shields.io/badge/-SDLC-000000?style=flat" height="20"/> **Software Development Life Cycle**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=begalve-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
@@ -57,7 +57,7 @@ An Information Technology professional with a strong background in technical sup
 
 ---
 
-## 📈 GitHub Streak
+## GitHub Streak
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=begalve-lopes&theme=tokyonight" height="150" alt="GitHub Streak" />
@@ -65,7 +65,7 @@ An Information Technology professional with a strong background in technical sup
 
 ---
 
-## 📜 Main Certifications
+## Main Certifications
 - Complete Software Testing + Automation Course – Udemy & Iterasys  
 - Universo Cypress & Playwright eXpress – QANinja & Udemy  
 - Introduction to Software Testing – USP  
@@ -75,7 +75,7 @@ An Information Technology professional with a strong background in technical sup
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/begave-lopes-da-silva-92b1a7284" target="_blank">
