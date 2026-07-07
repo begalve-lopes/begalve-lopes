@@ -1,5 +1,5 @@
 # Hi, I'm Begave Lopes Da Silva 👋
-### QA Automation Engineer | Tech Support Specialist | Aspiring SDET
+### Quality Assurance Engineer | QA Automation Engineer | Future SDET
 
 An Information Technology professional with a strong background in technical support, system administration, and infrastructure, now fully focused on **Software Quality Assurance (QA)**. I combine my systems knowledge with modern automation practices to ensure application stability, reliability, and continuous delivery.
 
