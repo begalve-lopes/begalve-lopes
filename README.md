@@ -1,8 +1,13 @@
 # Hi, I'm Begave Lopes Da Silva 👋
-### Quality Assurance Engineer | QA Automation Engineer | Future SDET
+### QA Automation Engineer | Quality Assurance | Aspiring SDET | IT Professional · ISTQB® CTFL
 
-An Information Technology professional with a strong background in technical support, system administration, and infrastructure, now fully focused on **Software Quality Assurance (QA)**. I combine my systems knowledge with modern automation practices to ensure application stability, reliability, and continuous delivery.
+An **Information Technology professional** specializing in **Quality Assurance (QA)**, with solid knowledge in manual testing, test automation, API testing, performance testing, and software development. 
 
+I possess practical experience in:
+* Designing and executing comprehensive test scenarios.
+* Identifying, documenting, and tracking defects.
+* Ensuring application quality and reliability.
+* Supporting and collaborating within software development processes.
 ---
 
 ## About Me
