@@ -8,10 +8,10 @@ qualidade de aplicações e suporte a processos de desenvolvimento.
 ---
 
 ## About Me
-- **Current Role:** IT Technician at ESCID, providing system administration and infrastructure support.
-- **Past Experience:** IT Trainer at CFITEL, teaching computer repair and system administration.
-- **Education:** Technical Course in IT from ITEL (Instituto de Telecomunicações).
-- **Current Goals:** Transitioning completely to SDET roles, mastering Playwright architecture, and optimizing CI/CD pipelines with GitHub Actions.
+- **Cargo Atual:** Técnico de TI na ESCID, atuando em administração de sistemas e suporte de infraestrutura.
+- **Experiência Passada:** Formador de Informática no CFITEL, lecionando manutenção de computadores e administração de sistemas.
+- **Educação:** Curso Técnico de Informática pelo ITEL (Instituto de Telecomunicações).
+- **Objetivos Atuais:** Transição completa para funções de SDET, dominando a arquitetura do Playwright e otimizando pipelines de CI/CD com GitHub Actions.
 
 ---
 
