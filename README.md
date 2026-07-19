@@ -1,5 +1,5 @@
 # Hi, I'm Begave Lopes Da Silva 👋
-### QA Automation Engineer | Quality Assurance | Aspiring SDET · ISTQB® CTFL | IT Professional
+### Software Quality Assurance Engineer | Automation Engineer | Performance | CI/CD | Selenium | Playwright | Cypress | API | Aspiring SDET · ISTQB® CTFL | IT Professional
 
 **Profissional de Tecnologia da Informação** especializado em **Quality Assurance (QA)**, com conhecimentos sólidos em
 testes manuais, automação de testes, validação de APIs, testes de performance e desenvolvimento de software.
